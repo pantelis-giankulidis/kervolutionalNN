@@ -8,7 +8,7 @@ Kervolutional Neural Networks (KNN) are a [novel approach](https://arxiv.org/pdf
 * **Flexibility**: The kernel approach allows KNN to adapt to various data distributions, making it suitable for diverse applications.
 
 ### Overview
-This project demonstrates the implementation of KNN using TensorFlow and Keras. The provided Colab notebook showcases how to build and train a Kervolutional Neural Network for image classification tasks and compare it's performance against traditional CNN architectures.
+This project demonstrates the implementation of KNN using PyTorch. The provided Colab notebook showcases how to build and train a Kervolutional Neural Network for image classification tasks and compare it's performance against traditional CNN architectures.
 
 ### Intuition
 The simple convolution operation in 2d,has two equal sized windows , multiplied element-wise and sum up the individual results.
